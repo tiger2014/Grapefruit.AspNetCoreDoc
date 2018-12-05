@@ -1,2 +1,2 @@
 # Grapefruit.AspNetCoreDoc
-This repository contains some documentations about how to use ASP.NET Core
+Grapefruit.AspNetCoreDoc is a repository which contains some documentations about how to use ASP.NET Core
